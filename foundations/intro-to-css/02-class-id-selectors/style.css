@@ -1,0 +1,16 @@
+p {
+    background-color:lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+p.cooler {
+    font-size: 24px;
+}
+#id2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
